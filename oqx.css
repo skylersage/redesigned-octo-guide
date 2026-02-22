@@ -164,14 +164,7 @@
             box-shadow: 0 8px 20px rgba(52, 152, 219, 0.15);
         }
         
-        .ad-label {
-            font-size: 0.9rem;
-            color: #3498db;
-            margin-bottom: 10px;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-        }
+        
         
         .ad-content {
             font-size: 1rem;
